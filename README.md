@@ -1,6 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## Name: Ashwin Akash M
-## Reference Number: 212223230024
+## Name: SANTHOSH S
+## Reference Number: 212224100052
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -33,8 +33,7 @@ while True:
     c.send(ClientMessage.encode())
 ```
 ## OUPUT
-<img width="949" height="215" alt="image" src="https://github.com/user-attachments/assets/944a7643-1329-41d9-84ad-d1a6df0687f1" />
-<img width="948" height="163" alt="image" src="https://github.com/user-attachments/assets/bf8a6284-696a-4d37-8f13-58edd07dc0d0" />
+<img width="1920" height="1200" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/31ca9042-ae2c-4fb5-a7ce-93331da1d83f" />
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
